@@ -1,5 +1,5 @@
 # Play as Red!
-
+<img alt="Card" src="https://l01d.files.wordpress.com/2020/12/play-as-red.png" width="100%">
 All stuffs and information are based on Play as Blue! except the character (YOU ARE RED).
 
 ## FEATURES:
